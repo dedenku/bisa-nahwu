@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkbisa_nahwu=globalThis.webpackChunkbisa_nahwu||[]).push([[9026],{1580:a=>{a.exports=JSON.parse('{"metadata":{"permalink":"/bisa-nahwu/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);

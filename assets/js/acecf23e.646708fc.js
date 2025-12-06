@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkbisa_nahwu=globalThis.webpackChunkbisa_nahwu||[]).push([[1903],{1912:a=>{a.exports=JSON.parse('{"blogBasePath":"/bisa-nahwu/blog","blogTitle":"Blog","authorsListPath":"/bisa-nahwu/blog/authors"}')}}]);
